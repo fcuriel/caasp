@@ -13,7 +13,7 @@ spec:
     tier: test-kubernetes
   type: NodePort
 ---
-# Deployment creation of the application
+# Deployment creation of the application 
 apiVersion: apps/v1beta1
 kind: Deployment
 metadata:
