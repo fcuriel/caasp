@@ -37,7 +37,7 @@ spec:
       containers:
       - image: borre/test-kubernetes:latest
         name: test-kubernetes
-#        imagePullPolicy: IfNotPresent
+#        imagePullPolicy: IfNotPresent  
         resources:
           limits:
             cpu: "0.5"
