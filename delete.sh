@@ -7,3 +7,4 @@ kubectl delete hpa test-kubernetes
 kubectl get pods
 kubectl get deployments
 kubectl get hpa
+
